@@ -1,21 +1,62 @@
+<!-- HERO SECTION -->
 <table width="100%" style="border-collapse: collapse;">
 <tr>
 
-<td width="40%" align="left" valign="middle">
+<td align="left" width="55%" valign="top">
 
-<p style="font-size: 42px; font-weight: 800; margin: 0;">
-🌟 CloudFinz
+<p style="font-size: 40px; font-weight: 800; margin-bottom: 8px;">
+  🌟 CloudFinz
+</p>
+
+<p style="
+  font-size: 18px; 
+  font-weight: 600; 
+  color: #facc15;
+  margin-top: 0;
+  margin-bottom: 20px;
+">
+  Full Stack Developer • Builder of Things That Matter
+</p>
+
+<!-- SOCIAL BUTTONS -->
+<p style="margin: 0 0 18px 0;">
+  <a href="https://www.facebook.com/vantien.bui.9026?locale=vi_VN">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/văn-tiến-undefined-2050aa354/">
+    <img src="https://img.shields.io/badge/LinkedIn-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:vantiennst@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<!-- CTA BUTTON -->
+<p>
+  <a href="#" style="
+    display: inline-block; 
+    padding: 10px 18px; 
+    background: #facc15; 
+    color: #003147; 
+    font-weight: 600; 
+    border-radius: 8px;
+    text-decoration: none;
+  ">
+    ⏱️ Pick a time that works for you
+  </a>
 </p>
 
 </td>
 
-<td width="60%" align="right" valign="middle">
-
-<img 
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FACC15&center=false&vCenter=true&width=430&lines=Builder+of+Things+That+Matter;Turning+Ideas+into+Reality;Full+Stack+Developer" 
-  alt="Typing Animation"
-/>
-
+<!-- IMAGE -->
+<td align="right" width="45%">
+  <img 
+    src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" 
+    width="330" 
+    style="border-radius: 12px; box-shadow: 0 0 10px rgba(255,255,255,0.1);"
+  />
 </td>
 
 </tr>
