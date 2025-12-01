@@ -101,28 +101,35 @@ I enjoy learning deeply about how systems work, creating clean architectures, an
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<table align="center">
+<tr>
+<td>
 
-<!-- Stats tổng -->
 <img 
   src="https://github-readme-stats-ruby-seven-93.vercel.app/api?username=VantienStp&show_icons=true&count_private=true&theme=transparent" 
-  height="170"
+  height="180"
 />
 
-<!-- Top languages -->
+</td>
+<td>
+
 <img 
   src="https://github-readme-stats-ruby-seven-93.vercel.app/api/top-langs/?username=VantienStp&layout=compact&langs_count=8&theme=transparent" 
-  height="170"
+  height="180"
 />
 
-<br/>
+</td>
+</tr>
+</table>
 
-<!-- Streak -->
+<div align="center">
+
 <img 
   src="https://streak-stats.demolab.com?user=VantienStp&theme=transparent&hide_border=true"
 />
 
-<!-- Profile views -->
+<br/>
+
 <img 
   src="https://komarev.com/ghpvc/?username=VantienStp&label=Profile+Views&color=brightgreen&style=flat-square" 
 />
