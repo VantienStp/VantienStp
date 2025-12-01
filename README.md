@@ -99,69 +99,74 @@ I enjoy learning deeply about how systems work, creating clean architectures, an
 
 ---
 
-## Github stats 📊
+## 📊 GitHub Stats
 
-<!-- PERSONAL MAIN STATS -->
 <div align="center">
-  <img src="https://github-readme-stats-ruby-seven-93.vercel.app/api?username=VantienStp&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true" height="170" />
+
+  <!-- Main Stats -->
+  <img
+    src="https://github-readme-stats-ruby-seven-93.vercel.app/api?username=VantienStp&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=ffffff&title_color=2ecc71&icon_color=2ecc71"
+    height="170"
+    style="margin: 10px; border-radius: 12px;"
+  />
+
+  <!-- Top Languages -->
+  <img
+    src="https://github-readme-stats-ruby-seven-93.vercel.app/api/top-langs/?username=VantienStp&layout=compact&langs_count=6&theme=default&hide_border=true&bg_color=ffffff&title_color=000000"
+    height="170"
+    style="margin: 10px; border-radius: 12px;"
+  />
+
+  <!-- Streak -->
+  <img
+    src="https://streak-stats.demolab.com?user=VantienStp&theme=default&hide_border=true&mode=weekly&background=ffffff"
+    height="170"
+    style="margin: 10px; border-radius: 12px;"
+  />
+
 </div>
 
 ---
 
-### 📌 More Analytics
-
-<details>
-  <summary><b>GitHub Profile Stats 💻</b></summary>
-  <br/>
-
-  <div align="center">
-    <img src="https://github-readme-stats-ruby-seven-93.vercel.app/api/?username=VantienStp&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff" height="165px"/>
-    <img src="https://github-readme-stats-ruby-seven-93.vercel.app/api/top-langs/?username=VantienStp&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff" height="165px"/>
-  </div>
-</details>
+## 📈 Contribution Graph
+<div align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=VantienStp&bg_color=ffffff&color=000000&line=2ecc71&point=2ecc71&area_color=2ecc7177&area=true&hide_border=true"
+    style="border-radius: 12px;"
+  />
+</div>
 
 ---
 
-<details>
-  <summary><b>Activity Graph 📈</b></summary>
-  <br/>
-  <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=VantienStp&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true" />
-  </div>
-</details>
+## 👁️ Profile Views
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=VantienStp&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen" />
+</div>
 
 ---
 
-<details>
-  <summary><b>Profile Views 👁️</b></summary>
-  <br/>
-  <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=VantienStp&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
-  </div>
-</details>
+## 📌 Extra Pins
 
----
+<div align="center">
 
-<details>
-  <summary><b>Extra Pins 📌</b></summary>
-  <br/>
+  <a href="https://github.com/VantienStp/bulletin_board_fe_new">
+    <img src="https://github-readme-stats-ruby-seven-93.vercel.app/api/pin/?username=VantienStp&repo=bulletin_board_fe_new&theme=default&hide_border=true&bg_color=ffffff" height="140" style="border-radius: 12px; margin: 8px;" />
+  </a>
 
-  <div align="center">
-    <a href="https://github.com/VantienStp/bulletin_board_fe_new">
-      <img src="https://github-readme-stats-ruby-seven-93.vercel.app/api/pin/?username=VantienStp&repo=bulletin_board_fe_new&theme=default" />
-    </a>
-    <a href="https://github.com/VantienStp/bulletin_board_be_new">
-      <img src="https://github-readme-stats-ruby-seven-93.vercel.app/api/pin/?username=VantienStp&repo=bulletin_board_be_new&theme=default" />
-    </a>
-    <br/><br/>
-    <a href="https://github.com/VantienStp/portfolio-frontend">
-      <img src="https://github-readme-stats-ruby-seven-93.vercel.app/api/pin/?username=VantienStp&repo=portfolio-frontend&theme=default" />
-    </a>
-    <a href="https://github.com/VantienStp/portfolio-backend">
-      <img src="https://github-readme-stats-ruby-seven-93.vercel.app/api/pin/?username=VantienStp&repo=portfolio-backend&theme=default" />
-    </a>
-  </div>
-</details>
+  <a href="https://github.com/VantienStp/bulletin_board_be_new">
+    <img src="https://github-readme-stats-ruby-seven-93.vercel.app/api/pin/?username=VantienStp&repo=bulletin_board_be_new&theme=default&hide_border=true&bg_color=ffffff" height="140" style="border-radius: 12px; margin: 8px;" />
+  </a>
+
+  <a href="https://github.com/VantienStp/portfolio-frontend">
+    <img src="https://github-readme-stats-ruby-seven-93.vercel.app/api/pin/?username=VantienStp&repo=portfolio-frontend&theme=default&hide_border=true&bg_color=ffffff" height="140" style="border-radius: 12px; margin: 8px;" />
+  </a>
+
+  <a href="https://github.com/VantienStp/portfolio-backend">
+    <img src="https://github-readme-stats-ruby-seven-93.vercel.app/api/pin/?username=VantienStp&repo=portfolio-backend&theme=default&hide_border=true&bg_color=ffffff" height="140" style="border-radius: 12px; margin: 8px;" />
+  </a>
+
+</div>
+
 
 
 ## Recent GitHub Activity ✅
