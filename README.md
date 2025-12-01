@@ -127,16 +127,34 @@ I enjoy learning deeply about how systems work, creating clean architectures, an
   <summary>Extra Pins 📌</summary>
   <br/>
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VantienStp&repo=bulletin_board_fe_new&theme=default" />
-  <br/><br/>
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VantienStp&repo=bulletin_board_be_new&theme=default" />
-  <br/><br/>
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VantienStp&repo=portfolio-fullstack&theme=default" />
-
+  <div align="center">
+    <a href="https://github.com/VantienStp/bulletin_board_fe_new">
+      <img
+        align="center"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=VantienStp&repo=bulletin_board_fe_new&theme=default"
+      />
+    </a>
+    <a href="https://github.com/VantienStp/bulletin_board_be_new">
+      <img
+        align="center"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=VantienStp&repo=bulletin_board_be_new&theme=default"
+      />
+    </a>
+    <br/><br/>
+    <a href="https://github.com/VantienStp/portfolio-frontend">
+      <img
+        align="center"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=VantienStp&repo=portfolio-frontend&theme=default"
+      />
+    </a>
+    <a href="https://github.com/VantienStp/portfolio-backend">
+      <img
+        align="center"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=VantienStp&repo=portfolio-backend&theme=default"
+      />
+    </a>
+  </div>
 </details>
-
 
 ## Recent GitHub Activity ✅
 
