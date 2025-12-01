@@ -1,1 +1,32 @@
+name: Auto Tech Stack
 
+on:
+  schedule:
+    - cron: "0 0 * * *"   # chạy mỗi ngày lúc 00:00 UTC
+  push:
+    branches: [ main ]    # chạy khi push vào main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: Setup Node
+      uses: actions/setup-node@v3
+      with:
+        node-version: "18"
+
+    - name: Run scanner
+      run: |
+        npm install
+        node scanner.js
+
+    - name: Commit changes
+      run: |
+        git config user.name "GitHub Actions"
+        git config user.email "actions@github.com"
+        git add README.md
+        git commit -m "Auto update tech stack" || echo "No changes to commit"
+        git push
