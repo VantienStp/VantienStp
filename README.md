@@ -88,14 +88,10 @@ I enjoy learning deeply about how systems work, creating clean architectures, an
 🔗 **Frontend:** https://github.com/VantienStp/bulletin_board_fe_new  
 🔗 **Backend:** https://github.com/VantienStp/bulletin_board_be_new  
 
----
-
 ### 🔹 CloudFinz – Personal Full-stack Portfolio  
 - Modern portfolio inspired by rezaghz.com  
 - Custom design system, hero animations, project showcase, email service  
 🔗 https://github.com/VantienStp/portfolio-fullstack
-
----
 
 ## GitHub Stats 📊
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
