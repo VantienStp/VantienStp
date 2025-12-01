@@ -9,12 +9,13 @@ function scanRepo(dir, foundKeywords = new Set()) {
   for (let file of files) {
     const fullPath = path.join(dir, file);
 
+    // ignore git folder + workflow folder
     if (fs.statSync(fullPath).isDirectory()) {
-      if (!fullPath.includes(".git") && !fullPath.includes(".github"))
+      if (!fullPath.includes(".git") && !fullPath.includes(".github")) {
         scanRepo(fullPath, foundKeywords);
+      }
       continue;
     }
-    
 
     const content = fs.readFileSync(fullPath, "utf8");
 
