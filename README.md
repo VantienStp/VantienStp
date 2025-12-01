@@ -101,22 +101,22 @@ I enjoy learning deeply about how systems work, creating clean architectures, an
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats 📊
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <div align="center">
-  <img 
-    src="https://komarev.com/ghpvc/?username=VantienStp&label=Profile+Views&color=brightgreen&style=flat-square" 
-  />
-</div>
   <img 
     src="https://github-readme-stats-ruby-seven-93.vercel.app/api?username=VantienStp&show_icons=true&count_private=true&theme=transparent" 
     height="180"
   />
-  <img 
-    src="https://github-readme-stats-ruby-seven-93.vercel.app/api/top-langs/?username=VantienStp&layout=compact&langs_count=8&theme=transparent" 
-    height="180"
-  />
+  <div align="center">
+    <img 
+      src="https://komarev.com/ghpvc/?username=VantienStp&label=Profile+Views&color=brightgreen&style=flat-square" 
+    />
+    <img 
+      src="https://github-readme-stats-ruby-seven-93.vercel.app/api/top-langs/?username=VantienStp&layout=compact&langs_count=8&theme=transparent" 
+      height="180"
+    />
+  </div>
 </div>
 
 
@@ -124,7 +124,7 @@ I enjoy learning deeply about how systems work, creating clean architectures, an
 
 
 
-## Recent GitHub Activity ✅
+## Recent GitHub Activity 
 
 ![Metrics](https://metrics.lecoq.io/VantienStp?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&activity=1&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=true&config.timezone=Asia/Ho_Chi_Minh)
 
