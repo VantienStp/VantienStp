@@ -1,7 +1,20 @@
-<img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there! I'm Finz" title="👋 Hi there! I'm Finz"/>
+<div align="center">
+  <img src="hero.png" width="400" />
+</div>
+
+<h1 align="center">CloudFinz</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00E676&center=true&vCenter=true&width=600&lines=Builder+of+Things+That+Matter;Turning+Ideas+into+Reality;Full+Stack+Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Builder+of+Things+That+Matter;Turning+Ideas+into+Reality;Full+Stack+Developer" />
 </p>
+
+<div align="center">
+  <!-- Social icons -->
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</div>
+
 <p align="center">
   <a href="https://www.facebook.com/vantien.bui.9026?locale=vi_VN">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
