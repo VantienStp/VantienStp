@@ -35,45 +35,6 @@ I enjoy learning deeply about how systems work, creating clean architectures, an
 
 <!-- TECH_STACK_END -->
 
-  <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=express" width="48"/>
-      <br>Express
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postman" width="48"/>
-      <br>Postman
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48"/>
-      <br>Git
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48"/>
-      <br>VS Code
-    </td>
-     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=figma" width="48"/>
-      <br>Figma
-    </td>
-     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=socketio" width="48"/>
-      <br>Socket.io
-    </td>
-     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=blender" width="48"/>
-      <br>Maya/Python
-    </td>
-     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=raspberrypi" width="48"/>
-      <br>Infra Basics
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=linux" width="48"/>
-      <br>Linux
-    </td>
-  </tr>
-</table>
 
 
 ## Featured Projects 🚀
