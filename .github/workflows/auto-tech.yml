@@ -19,9 +19,7 @@ jobs:
         node-version: "18"
 
     - name: Run scanner
-      run: |
-        npm install
-        node scanner.js
+      run: node scanner.js
 
     - name: Commit changes
       run: |
