@@ -1,32 +1,49 @@
 const fs = require("fs");
 const path = require("path");
+const { execSync } = require("child_process");
 
 const techmap = JSON.parse(fs.readFileSync("./techmap.json", "utf8"));
+const repos = JSON.parse(fs.readFileSync("./repos.json", "utf8")).repos;
 
-function scanRepo(dir, foundKeywords = new Set()) {
+const CACHE_DIR = ".cache_repos";
+
+// tạo folder cache
+if (!fs.existsSync(CACHE_DIR)) fs.mkdirSync(CACHE_DIR);
+
+function cloneRepo(url) {
+  const folderName = url.split("/").pop();
+  const targetDir = path.join(CACHE_DIR, folderName);
+
+  if (fs.existsSync(targetDir)) {
+    execSync(`rm -rf ${targetDir}`);
+  }
+
+  console.log("Cloning", url);
+  execSync(`git clone --depth=1 ${url} ${targetDir}`);
+  return targetDir;
+}
+
+function scanRepo(dir, found = new Set()) {
   const files = fs.readdirSync(dir);
 
   for (let file of files) {
     const fullPath = path.join(dir, file);
 
-    // ignore git folder + workflow folder
     if (fs.statSync(fullPath).isDirectory()) {
-      if (!fullPath.includes(".git") && !fullPath.includes(".github")) {
-        scanRepo(fullPath, foundKeywords);
-      }
+      if (!fullPath.includes(".git")) scanRepo(fullPath, found);
       continue;
     }
 
     const content = fs.readFileSync(fullPath, "utf8");
 
     for (let keyword in techmap) {
-      if (content.toLowerCase().includes(keyword.toLowerCase())) {
-        foundKeywords.add(keyword);
+      if (content.toLowerCase().includes(keyword)) {
+        found.add(keyword);
       }
     }
   }
 
-  return foundKeywords;
+  return found;
 }
 
 function generateTable(keywords) {
@@ -44,10 +61,7 @@ function generateTable(keywords) {
   <span style="font-size: 14px; font-weight: 600;">${label}</span>
 </td>`;
 
-    // tự xuống dòng mỗi 6 icon
-    if ((index + 1) % 6 === 0) {
-      html += `</tr><tr>`;
-    }
+    if ((index + 1) % 6 === 0) html += `</tr><tr>`;
   });
 
   html += `</tr></table>`;
@@ -56,16 +70,21 @@ function generateTable(keywords) {
 
 function updateReadme(tableHtml) {
   let readme = fs.readFileSync("README.md", "utf8");
-
   readme = readme.replace(
     /<!-- TECH_STACK_AUTO -->([\s\S]*?)<!-- TECH_STACK_END -->/,
     `<!-- TECH_STACK_AUTO -->\n${tableHtml}\n<!-- TECH_STACK_END -->`
   );
-
   fs.writeFileSync("README.md", readme);
 }
 
-const keywords = scanRepo(".");
-const table = generateTable(keywords);
+let foundKeywords = new Set();
 
-updateReadme(table);
+repos.forEach(url => {
+  const repoDir = cloneRepo(url);
+  scanRepo(repoDir, foundKeywords);
+});
+
+// xóa cache sau khi scan
+execSync(`rm -rf ${CACHE_DIR}`);
+
+updateReadme(generateTable(foundKeywords));
