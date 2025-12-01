@@ -1,36 +1,51 @@
 <p align="center">
-  <img src="hero.png" width="350" alt="CloudFinz" />
+  <img 
+    src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" 
+    alt="CloudFinz" 
+    width="400"
+  />
 </p>
 
-<h1 align="center">CloudFinz</h1>
+<h1 align="center">🌟 CloudFinz</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Builder+of+Things+That+Matter;Turning+Ideas+into+Reality;Full+Stack+Developer" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FACC15&center=true&vCenter=true&width=600&lines=Builder+of+Things+That+Matter;Turning+Ideas+into+Reality;Full+Stack+Developer" 
+    alt="Typing Animation"
+  />
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/Pick%20a%20Time%20That%20Works%20for%20You-FFD700?style=for-the-badge&logo=googlecalendar&logoColor=black" />
+  <a href="https://www.facebook.com/vantien.bui.9026?locale=vi_VN">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/văn-tiến-undefined-2050aa354/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:vantiennst@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
+<p align="center">
+  <a href="https://calendly.com/" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/Pick%20a%20Time%20That%20Works%20for%20You-FACC15?style=for-the-badge&logo=googlecalendar&logoColor=000" 
+      alt="CTA"
+    />
+  </a>
+</p>
 
-
-
-
+---
 
 <p align="justify">
-Welcome to my GitHub! I'm <b>Tiến (Finz)</b>, a fresher full-stack developer from Viet Nam.  
-Currently, I am building a large-scale internal bulletin board system for the <b>People’s Court – KV1 HCMC</b> and developing my personal full-stack portfolio <b>CloudFinz</b>.  
-
-I enjoy learning deeply about how systems work, creating clean architectures, and building real-world applications end-to-end (frontend + backend + infra).
+Welcome to my GitHub! I'm <b>Tiến (Finz)</b>, a fresher full-stack developer from Viet Nam.<br />
+I'm currently building a large-scale internal bulletin board system for the <b>People’s Court – KV1 HCMC</b> and developing my personal full-stack portfolio <b>CloudFinz</b>.  
+I enjoy learning deeply about how systems work, creating clean architectures, and building real-world applications end-to-end.  
 </p>
+
 
 
 ## My favorite tools and technologies ⚙️
