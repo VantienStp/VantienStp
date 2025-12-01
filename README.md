@@ -104,10 +104,11 @@ I enjoy learning deeply about how systems work, creating clean architectures, an
 <details>
   <summary>GitHub Profile Stats 💻</summary>
   <br/>
-    <img src="https://github-readme-stats.vercel.app/api/?username=VantienStp&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VantienStp&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000" height="192px"/>
+    <img src="https://github-readme-stats-ruby-seven-93.vercel.app/api/?username=VantienStp&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/>
+    <img src="https://github-readme-stats-ruby-seven-93.vercel.app/api/top-langs/?username=VantienStp&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000" height="192px"/>
   <br/>
 </details>
+
 
 <details>
   <summary>Activity Graph 📈</summary>
