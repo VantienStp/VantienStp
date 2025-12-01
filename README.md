@@ -32,7 +32,7 @@ I enjoy learning deeply about how systems work, creating clean architectures, an
 > Technologies that I have used in real projects and enjoy working with
 
 <!-- TECH_STACK_AUTO -->
-Loading...
+
 <!-- TECH_STACK_END -->
 
   <tr>
