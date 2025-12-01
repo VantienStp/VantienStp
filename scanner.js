@@ -7,22 +7,28 @@ const repos = JSON.parse(fs.readFileSync("./repos.json", "utf8")).repos;
 
 const CACHE_DIR = ".cache_repos";
 
+// Create cache folder
 if (!fs.existsSync(CACHE_DIR)) fs.mkdirSync(CACHE_DIR);
 
 function cloneRepo(url) {
   const folderName = url.split("/").pop();
   const targetDir = path.join(CACHE_DIR, folderName);
 
+  // Remove old cache
   if (fs.existsSync(targetDir)) {
     fs.rmSync(targetDir, { recursive: true, force: true });
   }
 
+  const username = process.env.GITHUB_ACTOR;
+  const token = process.env.GH_TOKEN;
+
+  // GitHub authentication with username + token (required)
   const cloneUrl = url.replace(
     "https://github.com/",
-    `https://${process.env.GH_TOKEN}@github.com/`
+    `https://${username}:${token}@github.com/`
   );
 
-  console.log("Cloning", url);
+  console.log("Cloning:", url);
 
   execSync(`git clone --depth=1 "${cloneUrl}" "${targetDir}"`, {
     stdio: "inherit"
@@ -63,7 +69,7 @@ function generateTable(keywords) {
     const { icon, label } = techmap[k];
 
     html += `
-<td align="center" width="120" style="padding: 14px 12px;">
+<td align="center" width="130" style="padding: 14px 12px;">
   <img src="https://skillicons.dev/icons?i=${icon}" width="48" style="margin-bottom: 6px;" />
   <br>
   <span style="font-size: 14px; font-weight: 600;">${label}</span>
@@ -89,11 +95,14 @@ function updateReadme(tableHtml) {
 
 let foundKeywords = new Set();
 
+// Clone and scan each repo
 repos.forEach(url => {
   const repoDir = cloneRepo(url);
   scanRepo(repoDir, foundKeywords);
 });
 
+// Remove cache after scan
 fs.rmSync(CACHE_DIR, { recursive: true, force: true });
 
+// Update README
 updateReadme(generateTable(foundKeywords));
