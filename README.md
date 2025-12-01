@@ -101,28 +101,17 @@ I enjoy learning deeply about how systems work, creating clean architectures, an
 
 ## 📊 GitHub Stats
 
-<table align="center">
-<tr>
-<td>
+<div align="center">
 
 <img 
   src="https://github-readme-stats-ruby-seven-93.vercel.app/api?username=VantienStp&show_icons=true&count_private=true&theme=transparent" 
-  height="180"
+  height="170"
 />
-
-</td>
-<td>
 
 <img 
-  src="https://github-readme-stats-ruby-seven-93.vercel.app/api/top-langs/?username=VantienStp&layout=compact&langs_count=8&theme=transparent" 
-  height="180"
+  src="https://github-readme-stats-ruby-seven-93.vercel.app/api/top-langs/?username=VantienStp&layout=compact&theme=transparent" 
+  height="170"
 />
-
-</td>
-</tr>
-</table>
-
-<div align="center">
 
 <img 
   src="https://streak-stats.demolab.com?user=VantienStp&theme=transparent&hide_border=true"
@@ -131,10 +120,11 @@ I enjoy learning deeply about how systems work, creating clean architectures, an
 <br/>
 
 <img 
-  src="https://komarev.com/ghpvc/?username=VantienStp&label=Profile+Views&color=brightgreen&style=flat-square" 
+  src="https://komarev.com/ghpvc/?username=VantienStp&label=Views&color=brightgreen&style=flat-square" 
 />
 
 </div>
+
 
 ## 📌 Extra Pins
 
