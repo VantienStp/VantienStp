@@ -1,15 +1,17 @@
 <img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there! I'm Finz" title="👋 Hi there! I'm Finz"/>
 <div align="justify">
 
-<a href="https://www.facebook.com/your-facebook-link">
+<a href="https://www.facebook.com/vantien.bui.9026?locale=vi_VN">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="[https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/văn-tiến-undefined-2050aa354/)">
+
+<a href="https://www.linkedin.com/in/văn-tiến-undefined-2050aa354/">
 <img src="https://img.shields.io/badge/LinkedIn-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:your-email@gmail.com">
+
+<a href="mailto:vantiennst@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
