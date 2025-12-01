@@ -23,8 +23,6 @@
   </a>
 </p>
 
----
-
 <p align="justify">
 Welcome to my GitHub! I'm <b>Tiến (Finz)</b>, a fresher full-stack developer from Viet Nam.<br />
 I'm currently building a large-scale internal bulletin board system for the <b>People’s Court – KV1 HCMC</b> and developing my personal full-stack portfolio <b>CloudFinz</b>.  
