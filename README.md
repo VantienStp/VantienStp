@@ -1,29 +1,25 @@
-<img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" 
-     alt="👋 Hi there! I'm Finz" title="👋 Hi there! I'm Finz"/>
+<img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there! I'm Finz" title="👋 Hi there! I'm Finz"/>
 
-<p align="center">
+<div align="justify">
 
 <a href="https://www.facebook.com/vantien.bui.9026?locale=vi_VN">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" 
-       style="border-radius: 10px;" />
-</a>
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" style="border-radius: 20px;" />
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/văn-tiến-undefined-2050aa354/">
-  <img src="https://img.shields.io/badge/LinkedIn-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white"
-       style="border-radius: 10px;" />
-</a>
+  <img src="https://img.shields.io/badge/LinkedIn-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 20px;" />
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:vantiennst@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-       style="border-radius: 10px;" />
-</a>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="border-radius: 20px;" />
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://t.me/your-telegram">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
-       style="border-radius: 10px;" />
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" style="border-radius: 20px;" />
 </a>
 
-</p>
+</div>
+
 
 
 
