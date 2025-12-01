@@ -1,29 +1,25 @@
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" 
-    alt="CloudFinz" 
-    width="400"
-  />
+<table width="100%" style="border-collapse: collapse;">
+<tr>
+
+<td width="40%" align="left" valign="middle">
+
+<p style="font-size: 42px; font-weight: 800; margin: 0;">
+🌟 CloudFinz
 </p>
 
-<table width="100%">
-<tr>
-<td align="left">
-
-<h1>🌟 CloudFinz</h1>
-
 </td>
-<td align="right">
+
+<td width="60%" align="right" valign="middle">
 
 <img 
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FACC15&center=false&vCenter=true&width=400&lines=Builder+of+Things+That+Matter;Turning+Ideas+into+Reality;Full+Stack+Developer" 
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FACC15&center=false&vCenter=true&width=430&lines=Builder+of+Things+That+Matter;Turning+Ideas+into+Reality;Full+Stack+Developer" 
   alt="Typing Animation"
 />
 
 </td>
+
 </tr>
 </table>
-
 
 <p align="center">
   <a href="https://www.facebook.com/vantien.bui.9026?locale=vi_VN">
