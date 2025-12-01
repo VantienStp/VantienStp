@@ -1,1 +1,18 @@
 
+{
+  "javascript": { "icon": "js", "label": "JavaScript" },
+  "node": { "icon": "nodejs", "label": "Node.js" },
+  "express": { "icon": "express", "label": "Express" },
+  "react": { "icon": "react", "label": "React" },
+  "next": { "icon": "nextjs", "label": "Next.js" },
+  "tailwind": { "icon": "tailwind", "label": "TailwindCSS" },
+  "mongodb": { "icon": "mongodb", "label": "MongoDB" },
+  "firebase": { "icon": "firebase", "label": "Firebase" },
+  "socket": { "icon": "socketio", "label": "Socket.io" },
+  "postman": { "icon": "postman", "label": "Postman" },
+  "git": { "icon": "git", "label": "Git" },
+  "github": { "icon": "github", "label": "GitHub" },
+  "vscode": { "icon": "vscode", "label": "VS Code" },
+  "figma": { "icon": "figma", "label": "Figma" },
+  "python": { "icon": "python", "label": "Python" }
+}
