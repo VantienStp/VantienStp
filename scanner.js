@@ -30,15 +30,24 @@ function scanRepo(dir, foundKeywords = new Set()) {
 }
 
 function generateTable(keywords) {
+  const arr = Array.from(keywords);
+
   let html = `<table><tr>`;
 
-  keywords.forEach(k => {
+  arr.forEach((k, index) => {
     const { icon, label } = techmap[k];
+
     html += `
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=${icon}" width="48" />
-  <br>${label}
+<td align="center" width="120" style="padding: 12px 10px;">
+  <img src="https://skillicons.dev/icons?i=${icon}" width="48" style="margin-bottom: 6px;" />
+  <br>
+  <span style="font-size: 14px; font-weight: 600;">${label}</span>
 </td>`;
+
+    // tự xuống dòng mỗi 6 icon
+    if ((index + 1) % 6 === 0) {
+      html += `</tr><tr>`;
+    }
   });
 
   html += `</tr></table>`;
