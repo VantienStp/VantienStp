@@ -103,47 +103,31 @@ I enjoy learning deeply about how systems work, creating clean architectures, an
 
 <div align="center">
 
-  <!-- Main Stats -->
-  <img
-    src="https://github-readme-stats-ruby-seven-93.vercel.app/api?username=VantienStp&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=ffffff&title_color=2ecc71&icon_color=2ecc71"
-    height="170"
-    style="margin: 10px; border-radius: 12px;"
-  />
+<!-- Stats tổng -->
+<img 
+  src="https://github-readme-stats-ruby-seven-93.vercel.app/api?username=VantienStp&show_icons=true&count_private=true&theme=transparent" 
+  height="170"
+/>
 
-  <!-- Top Languages -->
-  <img
-    src="https://github-readme-stats-ruby-seven-93.vercel.app/api/top-langs/?username=VantienStp&layout=compact&langs_count=6&theme=default&hide_border=true&bg_color=ffffff&title_color=000000"
-    height="170"
-    style="margin: 10px; border-radius: 12px;"
-  />
+<!-- Top languages -->
+<img 
+  src="https://github-readme-stats-ruby-seven-93.vercel.app/api/top-langs/?username=VantienStp&layout=compact&langs_count=8&theme=transparent" 
+  height="170"
+/>
 
-  <!-- Streak -->
-  <img
-    src="https://streak-stats.demolab.com?user=VantienStp&theme=default&hide_border=true&mode=weekly&background=ffffff"
-    height="170"
-    style="margin: 10px; border-radius: 12px;"
-  />
+<br/>
+
+<!-- Streak -->
+<img 
+  src="https://streak-stats.demolab.com?user=VantienStp&theme=transparent&hide_border=true"
+/>
+
+<!-- Profile views -->
+<img 
+  src="https://komarev.com/ghpvc/?username=VantienStp&label=Profile+Views&color=brightgreen&style=flat-square" 
+/>
 
 </div>
-
----
-
-## 📈 Contribution Graph
-<div align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=VantienStp&bg_color=ffffff&color=000000&line=2ecc71&point=2ecc71&area_color=2ecc7177&area=true&hide_border=true"
-    style="border-radius: 12px;"
-  />
-</div>
-
----
-
-## 👁️ Profile Views
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=VantienStp&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen" />
-</div>
-
----
 
 ## 📌 Extra Pins
 
