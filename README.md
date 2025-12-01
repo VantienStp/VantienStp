@@ -2,11 +2,11 @@
 
 <div align="justify">
 
-<a href="https://www.facebook.com/vantien.bui.9026?locale=vi_VN">
+<a href="https://www.facebook.com/vantien.bui.9026?locale=vi_VN" style="border-radius: 20px;">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" style="border-radius: 20px;" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://www.linkedin.com/in/văn-tiến-undefined-2050aa354/">
+<a href="https://www.linkedin.com/in/văn-tiến-undefined-2050aa354/" style="border-radius: 20px;">
   <img src="https://img.shields.io/badge/LinkedIn-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 20px;" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
