@@ -10,9 +10,11 @@ function scanRepo(dir, foundKeywords = new Set()) {
     const fullPath = path.join(dir, file);
 
     if (fs.statSync(fullPath).isDirectory()) {
-      if (!fullPath.includes(".git")) scanRepo(fullPath, foundKeywords);
+      if (!fullPath.includes(".git") && !fullPath.includes(".github"))
+        scanRepo(fullPath, foundKeywords);
       continue;
     }
+    
 
     const content = fs.readFileSync(fullPath, "utf8");
 
