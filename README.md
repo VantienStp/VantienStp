@@ -1,25 +1,30 @@
 <img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there! I'm Finz" title="👋 Hi there! I'm Finz"/>
-<div align="justify">
+<div align="center" style="margin: 20px 0;">
 
 <a href="https://www.facebook.com/vantien.bui.9026?locale=vi_VN">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2" style="border-radius: 8px;" />
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<span style="display:inline-block; width:12px;"></span>
 
 <a href="https://www.linkedin.com/in/văn-tiến-undefined-2050aa354/">
-<img src="https://img.shields.io/badge/LinkedIn-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" style="border-radius: 8px;" />
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<span style="display:inline-block; width:12px;"></span>
 
 <a href="mailto:vantiennst@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" style="border-radius: 8px;" />
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<span style="display:inline-block; width:12px;"></span>
+
 <a href="https://t.me/your-telegram">
-<img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0" style="border-radius: 8px;" />
 </a>
 
 </div>
+
 
 <p align="justify">
 Welcome to my GitHub! I'm <b>Tiến (Finz)</b>, a fresher full-stack developer from Viet Nam.  
