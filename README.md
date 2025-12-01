@@ -6,14 +6,24 @@
   />
 </p>
 
-<h1 align="center">🌟 CloudFinz</h1>
+<table width="100%">
+<tr>
+<td align="left">
 
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FACC15&center=true&vCenter=true&width=600&lines=Builder+of+Things+That+Matter;Turning+Ideas+into+Reality;Full+Stack+Developer" 
-    alt="Typing Animation"
-  />
-</p>
+<h1>🌟 CloudFinz</h1>
+
+</td>
+<td align="right">
+
+<img 
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FACC15&center=false&vCenter=true&width=400&lines=Builder+of+Things+That+Matter;Turning+Ideas+into+Reality;Full+Stack+Developer" 
+  alt="Typing Animation"
+/>
+
+</td>
+</tr>
+</table>
+
 
 <p align="center">
   <a href="https://www.facebook.com/vantien.bui.9026?locale=vi_VN">
