@@ -101,29 +101,31 @@ I enjoy learning deeply about how systems work, creating clean architectures, an
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
 
-<img 
-  src="https://github-readme-stats-ruby-seven-93.vercel.app/api?username=VantienStp&show_icons=true&count_private=true&theme=transparent" 
-  height="170"
-/>
+  <img 
+    src="https://github-readme-stats-ruby-seven-93.vercel.app/api?username=VantienStp&show_icons=true&count_private=true&theme=transparent" 
+    height="190"
+  />
 
-<img 
-  src="https://github-readme-stats-ruby-seven-93.vercel.app/api/top-langs/?username=VantienStp&layout=compact&theme=transparent" 
-  height="170"
-/>
+  <img 
+    src="https://github-readme-stats-ruby-seven-93.vercel.app/api/top-langs/?username=VantienStp&layout=compact&langs_count=8&theme=transparent" 
+    height="190"
+  />
 
-<img 
-  src="https://streak-stats.demolab.com?user=VantienStp&theme=transparent&hide_border=true"
-/>
-
-<br/>
-
-<img 
-  src="https://komarev.com/ghpvc/?username=VantienStp&label=Views&color=brightgreen&style=flat-square" 
-/>
+  <img 
+    src="https://streak-stats.demolab.com?user=VantienStp&theme=transparent&hide_border=true"
+    height="200"
+  />
 
 </div>
+
+<div align="center" style="margin-top: 5px;">
+  <img 
+    src="https://komarev.com/ghpvc/?username=VantienStp&label=Profile+Views&color=brightgreen&style=flat-square" 
+  />
+</div>
+
 
 
 ## 📌 Extra Pins
