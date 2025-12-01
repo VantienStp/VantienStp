@@ -1,33 +1,25 @@
-<div align="center">
-  <img src="hero.png" width="400" />
-</div>
+<p align="center">
+  <img src="hero.png" width="350" alt="CloudFinz" />
+</p>
 
 <h1 align="center">CloudFinz</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Builder+of+Things+That+Matter;Turning+Ideas+into+Reality;Full+Stack+Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Builder+of+Things+That+Matter;Turning+Ideas+into+Reality;Full+Stack+Developer" />
 </p>
-
-<div align="center">
-  <!-- Social icons -->
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  <img src="https://img.shields.io/badge/LinkedIn-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</div>
 
 <p align="center">
-  <a href="https://www.facebook.com/vantien.bui.9026?locale=vi_VN">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/văn-tiến-undefined-2050aa354/">
-    <img src="https://img.shields.io/badge/LinkedIn-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:vantiennst@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/Pick%20a%20Time%20That%20Works%20for%20You-FFD700?style=for-the-badge&logo=googlecalendar&logoColor=black" />
   </a>
 </p>
+
 
 
 
