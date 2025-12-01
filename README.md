@@ -104,18 +104,20 @@ I enjoy learning deeply about how systems work, creating clean architectures, an
 ## GitHub Stats 📊
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img 
-    src="https://github-readme-stats-ruby-seven-93.vercel.app/api?username=VantienStp&show_icons=true&count_private=true&theme=transparent" 
-    height="180"
-  />
   <div align="center">
     <img 
-      src="https://komarev.com/ghpvc/?username=VantienStp&label=Profile+Views&color=brightgreen&style=flat-square" 
-    />
-    <img 
-      src="https://github-readme-stats-ruby-seven-93.vercel.app/api/top-langs/?username=VantienStp&layout=compact&langs_count=8&theme=transparent" 
+      src="https://github-readme-stats-ruby-seven-93.vercel.app/api?username=VantienStp&show_icons=true&count_private=true&theme=transparent" 
       height="180"
     />
+    <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+      <img 
+        src="https://komarev.com/ghpvc/?username=VantienStp&label=Profile+Views&color=brightgreen&style=flat-square" 
+      />
+      <img 
+        src="https://github-readme-stats-ruby-seven-93.vercel.app/api/top-langs/?username=VantienStp&layout=compact&langs_count=8&theme=transparent" 
+        height="180"
+      />
+    </div>
   </div>
 </div>
 
