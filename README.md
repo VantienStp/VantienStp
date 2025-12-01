@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there! I'm Finz" title="👋 Hi there! I'm Finz"/>
-<div align="center" style="margin: 20px 0;">
+<div align="justify">
 
 <a href="https://www.facebook.com/vantien.bui.9026?locale=vi_VN">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2" style="border-radius: 8px;" />
