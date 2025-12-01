@@ -103,26 +103,29 @@ I enjoy learning deeply about how systems work, creating clean architectures, an
 
 ## GitHub Stats 📊
 
-<!-- Hàng 1: Stats + Profile Views -->
+<!-- Card Stats -->
 <div align="center">
   <img 
     src="https://github-readme-stats-ruby-seven-93.vercel.app/api?username=VantienStp&show_icons=true&count_private=true&theme=transparent" 
     height="180"
   />
+</div>
 
+<!-- Profile views - Căn phải -->
+<div align="right" style="width: 500px; margin: auto;">
   <img 
     src="https://komarev.com/ghpvc/?username=VantienStp&label=Profile+Views&color=brightgreen&style=flat-square" 
-    height="30"
   />
 </div>
 
-<!-- Hàng 2: Most Used Languages -->
+<!-- Most used languages -->
 <div align="center">
   <img 
     src="https://github-readme-stats-ruby-seven-93.vercel.app/api/top-langs/?username=VantienStp&layout=compact&langs_count=8&theme=transparent" 
     height="180"
   />
 </div>
+
 
 
 
