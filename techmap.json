@@ -1,4 +1,3 @@
-
 {
   "javascript": { "icon": "js", "label": "JavaScript" },
   "node": { "icon": "nodejs", "label": "Node.js" },
