@@ -101,30 +101,32 @@ I enjoy learning deeply about how systems work, creating clean architectures, an
 
 ## 📊 GitHub Stats
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
+<div align="center"
+     style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; justify-items: center;">
 
   <img 
     src="https://github-readme-stats-ruby-seven-93.vercel.app/api?username=VantienStp&show_icons=true&count_private=true&theme=transparent" 
-    height="190"
+    height="180"
   />
 
   <img 
     src="https://github-readme-stats-ruby-seven-93.vercel.app/api/top-langs/?username=VantienStp&layout=compact&langs_count=8&theme=transparent" 
-    height="190"
-  />
-
-  <img 
-    src="https://streak-stats.demolab.com?user=VantienStp&theme=transparent&hide_border=true"
-    height="200"
+    height="180"
   />
 
 </div>
 
-<div align="center" style="margin-top: 5px;">
+<div align="center" style="margin-top: 10px;">
+  <img 
+    src="https://streak-stats.demolab.com?user=VantienStp&theme=transparent&hide_border=true"
+    height="190"
+  />
+  <br/>
   <img 
     src="https://komarev.com/ghpvc/?username=VantienStp&label=Profile+Views&color=brightgreen&style=flat-square" 
   />
 </div>
+
 
 
 
