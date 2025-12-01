@@ -108,7 +108,6 @@ I enjoy learning deeply about how systems work, creating clean architectures, an
       src="https://github-readme-stats-ruby-seven-93.vercel.app/api?username=VantienStp&show_icons=true&count_private=true&theme=transparent" 
       height="180"
     />
-
       <img 
         src="https://komarev.com/ghpvc/?username=VantienStp&label=Profile+Views&color=brightgreen&style=flat-square" 
       />
@@ -116,7 +115,6 @@ I enjoy learning deeply about how systems work, creating clean architectures, an
         src="https://github-readme-stats-ruby-seven-93.vercel.app/api/top-langs/?username=VantienStp&layout=compact&langs_count=8&theme=transparent" 
         height="180"
       />
-  
 </div>
 
 
