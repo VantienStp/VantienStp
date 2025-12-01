@@ -32,7 +32,47 @@ I enjoy learning deeply about how systems work, creating clean architectures, an
 > Technologies that I have used in real projects and enjoy working with
 
 <!-- TECH_STACK_AUTO -->
-
+<table><tr>
+<td align="center" width="130" style="padding: 14px 12px;">
+  <img src="https://skillicons.dev/icons?i=nodejs" width="48" style="margin-bottom: 6px;" />
+  <br>
+  <span style="font-size: 14px; font-weight: 600;">Node.js</span>
+</td>
+<td align="center" width="130" style="padding: 14px 12px;">
+  <img src="https://skillicons.dev/icons?i=nextjs" width="48" style="margin-bottom: 6px;" />
+  <br>
+  <span style="font-size: 14px; font-weight: 600;">Next.js</span>
+</td>
+<td align="center" width="130" style="padding: 14px 12px;">
+  <img src="https://skillicons.dev/icons?i=git" width="48" style="margin-bottom: 6px;" />
+  <br>
+  <span style="font-size: 14px; font-weight: 600;">Git</span>
+</td>
+<td align="center" width="130" style="padding: 14px 12px;">
+  <img src="https://skillicons.dev/icons?i=github" width="48" style="margin-bottom: 6px;" />
+  <br>
+  <span style="font-size: 14px; font-weight: 600;">GitHub</span>
+</td>
+<td align="center" width="130" style="padding: 14px 12px;">
+  <img src="https://skillicons.dev/icons?i=react" width="48" style="margin-bottom: 6px;" />
+  <br>
+  <span style="font-size: 14px; font-weight: 600;">React</span>
+</td>
+<td align="center" width="130" style="padding: 14px 12px;">
+  <img src="https://skillicons.dev/icons?i=tailwind" width="48" style="margin-bottom: 6px;" />
+  <br>
+  <span style="font-size: 14px; font-weight: 600;">TailwindCSS</span>
+</td></tr><tr>
+<td align="center" width="130" style="padding: 14px 12px;">
+  <img src="https://skillicons.dev/icons?i=python" width="48" style="margin-bottom: 6px;" />
+  <br>
+  <span style="font-size: 14px; font-weight: 600;">Python</span>
+</td>
+<td align="center" width="130" style="padding: 14px 12px;">
+  <img src="https://skillicons.dev/icons?i=vscode" width="48" style="margin-bottom: 6px;" />
+  <br>
+  <span style="font-size: 14px; font-weight: 600;">VS Code</span>
+</td></tr></table>
 <!-- TECH_STACK_END -->
 
 
