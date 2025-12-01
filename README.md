@@ -81,8 +81,6 @@ I enjoy learning deeply about how systems work, creating clean architectures, an
 </td></tr></table>
 <!-- TECH_STACK_END -->
 
-
-
 ## Featured Projects 🚀
 
 ### 🔹 Bulletin Board System – People's Court (TAND KV1 – HCM)
@@ -101,14 +99,7 @@ I enjoy learning deeply about how systems work, creating clean architectures, an
 
 ---
 
-
-
-
-
-
 ## GitHub Stats 📊
-
-<!-- Card Stats -->
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <img 
     src="https://github-readme-stats-ruby-seven-93.vercel.app/api?username=VantienStp&show_icons=true&count_private=true&theme=transparent" 
@@ -119,23 +110,6 @@ I enjoy learning deeply about how systems work, creating clean architectures, an
     height="180"
   />
 </div>
-
-<!-- Profile views - Căn phải -->
-<div align="right" style="width: 500px; margin: auto;">
-  <img 
-    src="https://komarev.com/ghpvc/?username=VantienStp&label=Profile+Views&color=brightgreen&style=flat-square" 
-  />
-</div>
-
-<!-- Most used languages -->
-<div align="center">
-
-</div>
-
-
-
-
-
 
 
 ## Recent GitHub Activity 
