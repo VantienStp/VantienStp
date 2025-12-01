@@ -110,21 +110,21 @@ I enjoy learning deeply about how systems work, creating clean architectures, an
 
 
 
-<details>
+
   <summary>Activity Graph 📈</summary>
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=VantienStp&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true"/>
-</details>
 
 
-<details>
+
+
   <summary>Profile Views 👁️</summary>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=VantienStp&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
-</details>
 
 
-<details>
+
+
   <summary>Extra Pins 📌</summary>
   <br/>
 
@@ -155,7 +155,7 @@ I enjoy learning deeply about how systems work, creating clean architectures, an
       />
     </a>
   </div>
-</details>
+
 
 ## Recent GitHub Activity ✅
 
