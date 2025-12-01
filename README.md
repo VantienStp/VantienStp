@@ -103,63 +103,24 @@ I enjoy learning deeply about how systems work, creating clean architectures, an
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-
-  <!-- Stats -->
+  <div align="center">
+  <img 
+    src="https://komarev.com/ghpvc/?username=VantienStp&label=Profile+Views&color=brightgreen&style=flat-square" 
+  />
+</div>
   <img 
     src="https://github-readme-stats-ruby-seven-93.vercel.app/api?username=VantienStp&show_icons=true&count_private=true&theme=transparent" 
     height="180"
   />
-
-  <!-- Languages -->
   <img 
     src="https://github-readme-stats-ruby-seven-93.vercel.app/api/top-langs/?username=VantienStp&layout=compact&langs_count=8&theme=transparent" 
     height="180"
   />
-
-</div>
-
-<div align="center">
-
-  <img 
-    src="https://streak-stats.demolab.com?user=VantienStp&theme=transparent&hide_border=true"
-    height="190"
-  />
-
-  <br/>
-
-  <img 
-    src="https://komarev.com/ghpvc/?username=VantienStp&label=Profile+Views&color=brightgreen&style=flat-square" 
-  />
-
 </div>
 
 
 
-
-## 📌 Extra Pins
-
-<div align="center">
-
-  <a href="https://github.com/VantienStp/bulletin_board_fe_new">
-    <img src="https://github-readme-stats-ruby-seven-93.vercel.app/api/pin/?username=VantienStp&repo=bulletin_board_fe_new&theme=default&hide_border=true&bg_color=ffffff" height="140" style="border-radius: 12px; margin: 8px;" />
-  </a>
-
-  <a href="https://github.com/VantienStp/bulletin_board_be_new">
-    <img src="https://github-readme-stats-ruby-seven-93.vercel.app/api/pin/?username=VantienStp&repo=bulletin_board_be_new&theme=default&hide_border=true&bg_color=ffffff" height="140" style="border-radius: 12px; margin: 8px;" />
-  </a>
-
-  <a href="https://github.com/VantienStp/portfolio-frontend">
-    <img src="https://github-readme-stats-ruby-seven-93.vercel.app/api/pin/?username=VantienStp&repo=portfolio-frontend&theme=default&hide_border=true&bg_color=ffffff" height="140" style="border-radius: 12px; margin: 8px;" />
-  </a>
-
-  <a href="https://github.com/VantienStp/portfolio-backend">
-    <img src="https://github-readme-stats-ruby-seven-93.vercel.app/api/pin/?username=VantienStp&repo=portfolio-backend&theme=default&hide_border=true&bg_color=ffffff" height="140" style="border-radius: 12px; margin: 8px;" />
-  </a>
-
-</div>
 
 
 
