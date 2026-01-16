@@ -73,6 +73,16 @@ I enjoy learning deeply about how systems work, creating clean architectures, an
   <span style="font-size: 14px; font-weight: 600;">Python</span>
 </td>
 <td align="center" width="130" style="padding: 14px 12px;">
+  <img src="https://skillicons.dev/icons?i=express" width="48" style="margin-bottom: 6px;" />
+  <br>
+  <span style="font-size: 14px; font-weight: 600;">Express</span>
+</td>
+<td align="center" width="130" style="padding: 14px 12px;">
+  <img src="https://skillicons.dev/icons?i=mongodb" width="48" style="margin-bottom: 6px;" />
+  <br>
+  <span style="font-size: 14px; font-weight: 600;">MongoDB</span>
+</td>
+<td align="center" width="130" style="padding: 14px 12px;">
   <img src="https://skillicons.dev/icons?i=vscode" width="48" style="margin-bottom: 6px;" />
   <br>
   <span style="font-size: 14px; font-weight: 600;">VS Code</span>
