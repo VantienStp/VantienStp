@@ -91,12 +91,7 @@ I enjoy learning deeply about how systems work, creating clean architectures, an
 
 ## Featured Projects 🚀
 
-### 🔹 Bulletin Board System – People's Court (TAND KV1 – HCM)
-- Full-stack web system for document display, uploading, and internal workflows  
-- Next.js 15/16 + Tailwind + Framer Motion + Express + MongoDB  
-- Features: Dynamic Grid Layouts, PDF/Image/Video processing, QR code generator, Admin Dashboard, Roles/Permissions  
-🔗 **Frontend:** https://github.com/VantienStp/bulletin_board_fe_new  
-🔗 **Backend:** https://github.com/VantienStp/bulletin_board_be_new  
+
 
 ### 🔹 CloudFinz – Personal Full-stack Portfolio  
 - Modern portfolio inspired by rezaghz.com  
